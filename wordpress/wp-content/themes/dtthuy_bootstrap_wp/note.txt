@@ -1,0 +1,16 @@
+Các thu m?c:
+- css
+- fonts
+- images
+- js
+Các file:
+- 404.php
+- functions.php
+- header.php
+- index.php
+- footer.php
+- archive.php
+- single.php
+- page.php
+- style.css
+- screenshot.jpg

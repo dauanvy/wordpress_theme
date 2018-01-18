@@ -1,0 +1,8 @@
+/*
+Theme Name: Bootstrap Wp Theme
+Theme URI: 
+Description: Bootstrap Theme WordPress
+Version: 1.0
+Author: 
+Author URI:
+*/

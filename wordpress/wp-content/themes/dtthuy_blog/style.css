@@ -1,0 +1,41 @@
+/*
+Theme Name: Dtthuy Blog
+Theme URI: 
+Author: Dau Tien Thuy
+Author URI:
+Description: Dtthuy Blog Theme WordPress
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, custom-background, custom-colors, custom-header,
+Text Domain: twentyfifteen
+*/
+
+html {
+    min-height: 100% !important;
+    height: 100%;	
+}
+
+body{
+	padding-top: 20px;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+.navbar-default {
+    background-color: #4169E1;
+    border-color: #fff;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+#wrapper{
+	padding-bottom: 30px;
+}
+.sidebar-item {
+	background: peru
+}
+#footer > .container{
+	border-top:1px solid #4169E1;
+	padding: 20px 0;
+}
